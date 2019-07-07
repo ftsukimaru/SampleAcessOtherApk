@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AcessApk</string>
+    <string name="get_string">テキスト取得</string>
+    <string name="add_view">ビュー追加"</string>
+    <string name="start_browser">ブラウザ起動</string>
+</resources>
